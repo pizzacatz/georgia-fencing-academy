@@ -1,0 +1,21 @@
+# Georgia Fencing Academy
+# Search engines and AI answer engines are all welcome to read this site.
+
+User-agent: *
+Allow: /
+
+# AI crawlers, named so the permission is explicit.
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://georgiafencingacademy.com/sitemap.xml
